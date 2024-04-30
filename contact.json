@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "email": "sam@gmail.com",
+            "name": "Sam",
+            "contact": "011"
+        },
+        {
+            "email": "tank@live.com",
+            "name": "Tank",
+            "contact": "017"
+        },
+        {
+            "email": "chris@yahoo.com",
+            "name": "Chris",
+            "contact": "013"
+        },
+        {
+            "email": "august@hotmail.com",
+            "name": "August",
+            "contact": "014"
+        }
+    ]
+}
