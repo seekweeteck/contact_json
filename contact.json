@@ -3,22 +3,22 @@
         {
             "email": "sam@gmail.com",
             "name": "Sam",
-            "contact": "011"
+            "phone": "011"
         },
         {
             "email": "tank@live.com",
             "name": "Tank",
-            "contact": "017"
+            "phone": "017"
         },
         {
             "email": "chris@yahoo.com",
             "name": "Chris",
-            "contact": "013"
+            "phone": "013"
         },
         {
             "email": "august@hotmail.com",
             "name": "August",
-            "contact": "014"
+            "phone": "014"
         }
     ]
 }
